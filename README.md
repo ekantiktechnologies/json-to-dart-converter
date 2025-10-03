@@ -47,3 +47,6 @@ class UserModel {
 ```
 
 ➡️ More examples inside the /examples
+
+---
+**Keywords:** JSON to Dart, Dart model generator, Flutter JSON parser, json-to-dart, model-generator, flutter-tools
